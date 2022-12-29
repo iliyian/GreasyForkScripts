@@ -2,7 +2,7 @@
 // @name         Codeforces Friends Online Status
 // @namespace    https://github.com/ItsTHEAvro
 // @version      0.1
-// @description  Show the online status of friends in the friends column
+// @description  Show the online status of friends in the friends table
 // @author       ItsTHEAvro
 // @license      MIT
 // @support      https://github.com/ItsTHEAvro/GreasyForkScripts/CodeforcesFriendsOnlineStatus
