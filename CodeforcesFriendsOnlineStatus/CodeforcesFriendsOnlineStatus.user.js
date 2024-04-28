@@ -12,7 +12,7 @@
 // ==/UserScript==
 
 // Get the list of friend usernames from the table
-let friendsTable = document.querySelectorAll('table')[5];
+let friendsTable = document.querySelector('#pageContent > div.datatable > div:nth-child(6) > table');
 let headerRow = friendsTable.rows[0];
 let friends = [];
 for (let row of friendsTable.rows) {
